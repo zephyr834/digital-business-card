@@ -1,0 +1,22 @@
+.content {
+
+}
+
+.btn--email {
+
+}
+
+.btn--linkedin {
+    background-color: #479eeb;
+    color: white;
+    margin-left:10px;
+}
+
+.info-links > button {
+    padding: 10px;
+
+}
+
+.linkedin--icon {
+    margin-right: 20px;
+}
