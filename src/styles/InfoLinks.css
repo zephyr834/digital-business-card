@@ -1,0 +1,21 @@
+.info--links {
+    display: flex;
+    
+}
+
+.info--links > a > button {
+    min-width: 120px;
+}
+
+.email--link {
+    margin-right: auto;
+}
+
+.linkedin--button {
+    background-color: #479eeb;
+    color: white;
+}
+
+.icon {
+    margin-right: 5px;
+}

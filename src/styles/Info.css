@@ -1,22 +1,17 @@
 .content {
-
+    margin: 0;
 }
 
-.btn--email {
-
+.profile--pic {
+    width: 200px;
+    
 }
 
-.btn--linkedin {
-    background-color: #479eeb;
-    color: white;
-    margin-left:10px;
+.name {
+    font-size: 2.8em;
+    margin: 0;
 }
 
-.info-links > button {
-    padding: 10px;
-
-}
-
-.linkedin--icon {
-    margin-right: 20px;
+.position {
+    /* margin-top: 0px; */
 }
