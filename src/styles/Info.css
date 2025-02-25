@@ -1,7 +1,8 @@
 .content {
     margin: 10px 30px;
     max-width: 100%;
-    color: white
+    color: white;
+    text-align: center;
 }
 
 .profile--pic {
