@@ -3,8 +3,11 @@
 
 export default function Interests() {
     return (
-        <>
-            <h1>Interests</h1>
-        </>
+        <div className="container">
+            <h3 className="title">Interest</h3>
+            <p className="description">
+                
+            </p>
+        </div>
     )
 }

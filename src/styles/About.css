@@ -1,0 +1,12 @@
+.container {
+    margin: 20px 20px;
+}
+
+.title {
+    margin: 0;
+}
+
+.description {
+    font-size: 0.75em;
+    margin-top: 0;
+}
