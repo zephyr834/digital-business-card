@@ -1,5 +1,4 @@
 .content {
-    margin: 10px 30px;
     max-width: 100%;
     color: white;
     text-align: center;
@@ -9,7 +8,8 @@
     max-width: 100%;
     height: auto;
     align-content: center;
-    
+    border-top-left-radius: 5px;
+    border-top-right-radius: 10px;
 }
 
 .name {

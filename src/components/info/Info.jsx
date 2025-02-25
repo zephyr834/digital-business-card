@@ -7,7 +7,7 @@ export default function Info() {
     return (
         <>
             <img src={ProfilePhoto} alt="cat-with-glasses" className="profile--pic" />
-            <div className="content">
+            <div className="container content">
                 <h1 className="name">Cory Eighan</h1>
                 <p className="career">Software Engineer</p>
                 <p className="email">coryeighan834@gmail.com</p>

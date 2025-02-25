@@ -1,12 +1,15 @@
 #root {
-  width: 320px;
+  width: 350px;
   height: 900px;
   color: white;
   margin: 0 auto;
   background-color: rgb(29, 29, 29);
+  border-radius: 10px;
 }
 
-
+.container {
+  margin: 20px 20px;
+}
 
 .logo {
   height: 6em;
@@ -28,4 +31,13 @@
   to {
     transform: rotateY(360deg);
   }
+}
+
+.title {
+  margin: 0;
+}
+
+.description {
+  font-size: 0.75em;
+  margin-top: 0;
 }
