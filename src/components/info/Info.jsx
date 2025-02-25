@@ -5,14 +5,15 @@ import "./../../styles/Info.css"
 export default function Info() {
 
     return (
-        <div className="content">
+        <>
             <img src={ProfilePhoto} alt="cat-with-glasses" className="profile--pic" />
-            <div className="description">
+            <div className="content">
                 <h1 className="name">Cory Eighan</h1>
-                <p className="position">Software Engineer</p>
-                <p>coryeighan834@gmail.com</p>
+                <p className="career">Software Engineer</p>
+                <p className="email">coryeighan834@gmail.com</p>
+                <InfoLinks />
             </div>
-            <InfoLinks />
-        </div>
+            
+        </>
     )
 }

@@ -1,17 +1,26 @@
 .content {
-    margin: 0;
+    margin: 10px 30px;
+    max-width: 100%;
+    color: white
 }
 
 .profile--pic {
-    width: 200px;
+    max-width: 100%;
+    height: auto;
+    align-content: center;
     
 }
 
 .name {
-    font-size: 2.8em;
+    font-size: 2.6em;
     margin: 0;
 }
 
-.position {
-    /* margin-top: 0px; */
+.career {
+    margin-top: 10px;
+    color:bisque;
+}
+
+.email {
+    font-size: 0.7em;
 }
